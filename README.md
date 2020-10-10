@@ -1,6 +1,7 @@
 # MyNotes-application
 
 A simple, modern, interactive note-taking web application.
+
 MyNotes bulit on `vanilla JavaScript`using cutting-edge web technologies as `Webpack` and `Babel.js`.
 
 link: https://mynotessite.netlify.app/
